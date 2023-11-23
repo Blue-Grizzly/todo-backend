@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc && npm install",
     "start": "nodemon index.ts"
   },
   "author": "",
